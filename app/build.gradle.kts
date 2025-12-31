@@ -121,4 +121,7 @@ dependencies {
     implementation(libs.androidx.hilt.navigation.compose)
     implementation(libs.hilt.lifecycle.viewmodel.compose)
     ksp(libs.hilt.compiler)
+
+    //Function gemma
+    implementation(libs.mediapipe)
 }
